@@ -9,7 +9,7 @@ const demoFunction = () {
 
 console.log("this is calling funtion");
 
-   demoFunction();
+demoFunction();
 
 //some more comment
 console.log("sample console.log");
